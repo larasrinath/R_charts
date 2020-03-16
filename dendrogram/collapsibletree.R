@@ -18,5 +18,3 @@ r
 p <- collapsibleTree( products, c("L2","L3","L4"))
 p
 
-####### save charts
-saveWidget(p, file=paste0( "dendrogram/Charts/", "/HtmlWidget/dendrogram_interactive.html"))
